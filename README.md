@@ -1,2 +1,2 @@
 # mc202
-mc202 projects
+mc202, a materia da hora de estrutura de dados
